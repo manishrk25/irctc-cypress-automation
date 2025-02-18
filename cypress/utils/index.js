@@ -8,7 +8,7 @@ export function formatDate(inputDate) {
 }
 
 export const tatkalOpenTimings = {
-    "2A": "10:00",
+    "2A": "08:00",
     "3A": "10:00",
     "3E": "10:00",
     "1A": "10:00",
